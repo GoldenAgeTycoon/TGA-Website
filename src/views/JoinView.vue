@@ -74,11 +74,6 @@ export default {
     
 }
 
-#head h3 {
-	font-size: 22px;
-	text-transform: uppercase;
-}
-
   .container {
     padding: 2px 16px;
   }

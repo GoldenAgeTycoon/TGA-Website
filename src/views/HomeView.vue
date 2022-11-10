@@ -50,8 +50,4 @@ export default {
      text-shadow: -1px 0 #f8a201, 0 1px #f8a201, 1px 0 #f8a201, 0 -1px #f8a201;
 }
 
-#head h3 {
-	font-size: 22px;
-	text-transform: uppercase;
-}
 </style>
